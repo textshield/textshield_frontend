@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c2d533f.css",
+    "main.js": "/static/js/main.c60b110c.js",
+    "static/js/787.f4024541.chunk.js": "/static/js/787.f4024541.chunk.js",
+    "static/media/image.png": "/static/media/image.d4c1979dc58a535f9ad1.png",
+    "static/media/email-illustration.svg": "/static/media/email-illustration.84fb82b841c197337a4bc2c1e660d5a0.svg",
+    "static/media/design-illustration.svg": "/static/media/design-illustration.415c277c5396f5d93e398f34f14d8267.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.2012dbb259c77fd6aea5e21004ac0818.svg",
+    "index.html": "/index.html",
+    "static/media/quotes-l.svg": "/static/media/quotes-l.075e0fe3e775496713dce7e02c3f74ed.svg",
+    "static/media/quotes-r.svg": "/static/media/quotes-r.4ac4f65482308d7be9b638ccdb4ecd03.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.828ecd04e4d4a4b4704330d1b8b1ebb9.svg",
+    "static/media/svg-decorator-blob-1.svg": "/static/media/svg-decorator-blob-1.882b52f533a5f881fbac3178df042bb0.svg",
+    "static/media/menu.svg": "/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/x.svg": "/static/media/x.6c9a4ba71a333be7b021fc6da39d864c.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.962df6cec61e5366889690a28a03b953.svg",
+    "main.0c2d533f.css.map": "/static/css/main.0c2d533f.css.map",
+    "main.c60b110c.js.map": "/static/js/main.c60b110c.js.map",
+    "787.f4024541.chunk.js.map": "/static/js/787.f4024541.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c2d533f.css",
+    "static/js/main.c60b110c.js"
+  ]
+}
